@@ -56,7 +56,7 @@ Por último, vamos a escoger un Tema de colores para nuestra aplicación.
 ### Guarde y pruebe la aplicación
 - En el menú superior, busque y pulse el símbolo de un disquete, que es el de "Guardado".
 - En el nombre introduzca "Visits", y pulse en el botón "Guardar".
-- Lance la vista previa de la publicación, y compruebe qeu todas las pantallas y controles son funcionales.
+- Lance la vista previa de la publicación, y compruebe que todas las pantallas y controles son funcionales.
 
 ¡Ha construido su primera aplicación de lienzo con PowerApps!
 

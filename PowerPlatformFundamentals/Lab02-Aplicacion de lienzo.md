@@ -1,4 +1,4 @@
-# Laboratorio 1: Modelado de datos
+# Laboratorio 2: Aplicación de Lienzo
 ## Escenario
 
 Seguiremos el siguiente plan para diseñar la aplicación de lienzo:

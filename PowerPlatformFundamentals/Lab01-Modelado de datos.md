@@ -72,7 +72,7 @@ Vamos a crear la tabla de Visitas que utilizaremos en el resto de las prácticas
 ### Tarea 1.1: Subir un fichero Excel al OneDrive
 Vamos a subir los datos de los visitantes a un almacenamiento desde donde podamos importarlo dentro de la tabla creada anteriormente.
 
-- Descargue el fichero [Visits.xlsx](/Visits.xlsx) a su equipo local (la carpeta de descargas puede ser un buen sitio).
+- Descargue el fichero [Visits.xlsx](Visits.xlsx) a su equipo local (la carpeta de descargas puede ser un buen sitio).
 - En el menú de los 9 puntos de la esquina superior izquierda, seleccione la aplicación "OneDrive".
 - Seleccione el botón de "+ Add new" y escoga la opción de "Files Upload". En la ventana de selección vaya hasta la carpeta en donde descargó el fichero excel, selecciónelo, y pulse en el botón de "Abrir". Debería ver el fichero excel dentro de la opción de "My files" del menú de la izquierda.
 

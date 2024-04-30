@@ -14,8 +14,9 @@ En esta práctica de laboratorio del Módulo 0, accederá a un inquilino de prue
 - Solicite sus credenciales de Microsoft 365 a su instructor.
 - Abra una sesión en modo incognito.
 - Vaya a https://powerapps.microsoft.com
-Cuando salga el dialogo de identificación, ingrese la dirección de correo electrónico de sus credenciales de Microsoft 365 en el cuadro de texto que dice Ingrese su dirección de correo electrónico.
--Ingrese la contraseña.	Seleccione Sí para permanecer conectado.
+- Cuando salga el dialogo de identificación, ingrese la dirección de correo electrónico de sus credenciales de Microsoft 365 en el cuadro de texto que dice "Ingrese su dirección de correo electrónico".
+- Ingrese la contraseña.
+- Seleccione Sí para permanecer conectado.
 ## Tarea 2: crear un entorno
 - Vaya https://admin.powerplatform.microsoft.com 
 - Inicie sesión con sus credenciales de Microsoft 365 si se le solicita nuevamente.

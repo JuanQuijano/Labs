@@ -3,9 +3,9 @@
 
 En esta práctica de laboratorio, accederá a su entorno y creará una base de datos de Microsoft Dataverse y una solución para realizar un seguimiento de sus cambios. También creará un modelo de datos para admitir los siguientes requisitos:
 
-R1: seguimiento de información para visitas planificadas al campus
-R2: registrar información básica para identificar y rastrear visitantes
-R3 - Planificar, registrar y gestionar visitas
+- R1: seguimiento de información para visitas planificadas al campus
+- R2: registrar información básica para identificar y rastrear visitantes
+- R3 - Planificar, registrar y gestionar visitas
 
 Finalmente, importará datos de muestra a Microsoft Dataverse.
 

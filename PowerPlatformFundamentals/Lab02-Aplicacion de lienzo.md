@@ -8,9 +8,8 @@ Seguiremos el siguiente plan para diseñar la aplicación de lienzo:
 - Probaremos la funcionalidad de la aplicación.
 
 #### Requisitos previos
-Laboratorio 0: Validar el Entorno.
-
-Laboratorio 1: Modelado de datos.
+- Laboratorio 0: Validar el Entorno.
+- Laboratorio 1: Modelado de datos.
 
 ## Ejercicio 1: crear una aplicación de lienzo de visitas
 

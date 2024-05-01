@@ -14,9 +14,8 @@ Trabajaremos con los siguientes componentes:
 Ambos se integrarán en la aplicación basándose en una plantilla, para una mejor experiencia de usuario.
 
 #### Requisitos previos
-Laboratorio 0: Validar el Entorno.
-
-Laboratorio 1: Modelado de datos.
+- Laboratorio 0: Validar el Entorno.
+- Laboratorio 1: Modelado de datos.
 
 ## Ejercicio 1: personalizar las pantallas y los formularios
 

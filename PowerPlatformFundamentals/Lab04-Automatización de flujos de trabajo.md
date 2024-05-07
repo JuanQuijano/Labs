@@ -1,7 +1,7 @@
 # Laboratorio 3: Automatización de flujos de trabajo
 ## Escenario
 
-En esta práctica de laboratorio, creará un flujo de Power Automate para notificar a un visitante por correo electrónico que hay una visita programada.
+En esta práctica de laboratorio, creará un flujo de Power Automate para notificar a un visitante por correo electrónico que hay una visita programada .
 
 Pasos de laboratorio de alto nivel
 Los siguientes elementos han sido identificados como requisitos que debe implementar para completar el proyecto:

@@ -1,0 +1,27 @@
+Scenario
+In this walkthrough we create, configure, and deploy a Docker container to Azure Container Instances (ACI) in the Azure Portal. The container is a Welcome to ACI web application that displays a static HTML page.
+Task 1: Create a container instance
+In this task, we will create a new container instance for the web application.
+1. Open your choice of web browser and sign in to the Azure portal by navigating to https://portal.azure.com and entering the following Azure Credentials:
+o Username: alumnoXX@juanquijanodemos.onmicrosoft.com
+o Password: AzurePa55w0rd1234
+2. On Stay signed in? select Yes.
+3. From the All services blade, search for and select Container instances and then click + Create.
+4. Provide the following Basic details for the new container instance (leave the defaults for everything else):
+SettingValueSubscriptionAula01Resource groupRGalumnoXXContainer namemycontainerxxxxRegionnortheuropeImage sourceQuickstart imagesImagemcr.microsoft.com/azuredocs/aci-helloworld:latest (Linux)SizeLeave at the default5. Click Next: Networking > and configure the Networking tab (replace xxxx with letters and digits such that the name is globally unique). Leave all other settings at their default values.
+Note: Your container will be publicly reachable at dns-name-label.region.azurecontainer.io. If you receive a DNS name label not available error message following the deployment, specify a different DNS name label and re-deploy.
+SettingValueDNS name labelmicontenedordnsxxxxxx6. In Monitoring tab disable “Enable container instance logs” check.
+7. Click Review + Create to start the automatic validation process.
+8. Click Create to create the container instance.
+9. Monitor the deployment page and the Notifications page.
+10. While you wait you may be interested in viewing the sample code behind this simple application at the following link (Browse the \app folder) : https://github.com/Azure-Samples/aci-helloworld
+Task 2: Verify deployment of the container instance
+In this task, we verify that the container instance is running by ensuring that the welcome page displays.
+1. After the deployment is complete, click the Go to resource link the deployment blade or the link to the resource in the Notification area.
+2. On the Overview blade of mycontainer, ensure your container Status is Running.
+3. Locate the Fully Qualified Domain Name (FQDN).
+
+4. Copy the container's FQDN into the URL text box web browser and press Enter. The Welcome page should display.
+
+Congratulations! You have now completed this lab. You can safely end your lab.
+
